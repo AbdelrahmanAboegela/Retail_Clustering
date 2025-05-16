@@ -52,7 +52,7 @@ We use the **Online Retail II** dataset from the UCI repository. The dataset con
 
 ### Dendrogram - Hierarchical Clustering
 
-![Dendrogram](../Retail_Clustering/reports/figures/dendrogram.png)
+![Dendrogram](reports/figures/dendrogram.png)
 
 - A truncated dendrogram shows cluster branching structure.
 - `k = 4` was chosen based on visual gap.
@@ -63,11 +63,11 @@ We use the **Online Retail II** dataset from the UCI repository. The dataset con
 
 **Hierarchical Clustering (k=4):**
 
-![PCA Hierarchical](../Retail_Clustering/reports/figures/pca_hier.png)
+![PCA Hierarchical](reports/figures/pca_hier.png)
 
 **K-Medoids Clustering (k=4):**
 
-![PCA K-Medoids](../Retail_Clustering/reports/figures/pca_km.png)
+![PCA K-Medoids](reports/figures/pca_km.png)
 
 - PCA reduces the 3-dimensional RFM data for 3D cluster visualization.
 - Hierarchical clustering shows more compact clusters.
@@ -76,7 +76,7 @@ We use the **Online Retail II** dataset from the UCI repository. The dataset con
 
 ### Silhouette Score Comparison
 
-![Silhouette Scores](../Retail_Clustering/reports/figures/silhouette.png)
+![Silhouette Scores](reports/figures/silhouette.png)
 
 | Method         | Silhouette Score |
 |----------------|------------------|
@@ -89,7 +89,7 @@ We use the **Online Retail II** dataset from the UCI repository. The dataset con
 
 ### Attribute Importance per Cluster
 
-![Heatmap](../Retail_Clustering/reports/figures/relimp.png)
+![Heatmap](reports/figures/relimp.png)
 
 - This heatmap shows how each RFM attribute contributes to each cluster.
 - Positive or negative deviation from the population mean is color-encoded.
