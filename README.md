@@ -1,9 +1,5 @@
 # Retail Customer Clustering Analysis
 
-## Team Members
-- **Abdelrahman Ashraf** (320220168)  
-- **Zayn Khaled** (320220169)  
-- **Maya Aboelkhier** (320220081)
 
 ---
 
