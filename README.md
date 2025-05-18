@@ -83,20 +83,6 @@ We use the **Online Retail II** dataset from the UCI repository. The dataset con
 
 ---
 
-### Attribute Importance per Cluster
-
-![Heatmap](reports/figures/relimp.png)
-
-- This heatmap shows how each RFM attribute contributes to each cluster.
-- Positive or negative deviation from the population mean is color-encoded.
-
-**Insights:**
-- Cluster 0 = Recent buyers
-- Cluster 2 = High spenders
-- Cluster 3 = Low recency, low monetary
-
----
-
 ### FP-Growth Association Rules
 
 - **Frequent itemsets mined**: 163  
